@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# notes personnelles (prep entretien, etc.) - jamais publiees
+notes/
